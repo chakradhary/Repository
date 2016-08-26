@@ -1,0 +1,28 @@
+2016-08-20 22:10:46,038 [main] INFO NewTest - select browser: firefox Passed
+2016-08-20 22:10:46,617 [main] INFO NewTest - navigate to url: http://www.spicejet.com/ Passed
+2016-08-20 22:11:05,022 [main] INFO NewTest - select radio button by xpath: //input[@value='OneWay'] Passed
+2016-08-20 22:11:05,783 [main] INFO NewTest - click button by xpath: //input[@id='ctl00_mainContent_ddl_originStation1_CTXT'] Passed
+2016-08-20 22:11:08,624 [main] INFO NewTest - select option from list by xpath: //div[starts-with(@id,'dropdownGroup')]/div/ul/li/a Passed
+2016-08-20 22:11:13,537 [main] INFO NewTest - select option from list by xpath: //div[starts-with(@id,'dropdownGroup')]/div/ul/li/a Passed
+2016-08-20 22:11:16,784 [main] INFO NewTest - click button by xpath: //input[@id='ctl00_mainContent_btn_FindFlights'] Passed
+2016-08-20 22:13:24,871 [main] INFO Common.Utility - select browser: firefox Passed
+2016-08-20 22:13:25,419 [main] INFO Common.Utility - navigate to url: http://www.spicejet.com/ Passed
+2016-08-20 22:13:40,996 [main] INFO Common.Utility - select radio button by xpath: //input[@value='OneWay'] Passed
+2016-08-20 22:13:41,844 [main] INFO Common.Utility - click button by xpath: //input[@id='ctl00_mainContent_ddl_originStation1_CTXT'] Passed
+2016-08-20 22:13:44,340 [main] INFO Common.Utility - select option from list by xpath: //div[starts-with(@id,'dropdownGroup')]/div/ul/li/a Passed
+2016-08-20 22:13:49,922 [main] INFO Common.Utility - select option from list by xpath: //div[starts-with(@id,'dropdownGroup')]/div/ul/li/a Passed
+2016-08-20 22:13:51,456 [main] INFO Common.Utility - click button by xpath: //input[@id='ctl00_mainContent_btn_FindFlights'] Passed
+2016-08-20 22:24:17,013 [main] INFO Common.Utility - select browser: firefox Passed
+2016-08-20 22:24:17,612 [main] INFO Common.Utility - navigate to url: http://www.spicejet.com/ Passed
+2016-08-20 22:24:31,764 [main] INFO Common.Utility - select radio button by xpath: //input[@value='OneWay'] Passed
+2016-08-20 22:24:32,568 [main] INFO Common.Utility - click button by xpath: //input[@id='ctl00_mainContent_ddl_originStation1_CTXT'] Passed
+2016-08-20 22:24:34,724 [main] INFO Common.Utility - select option from list by xpath: //div[starts-with(@id,'dropdownGroup')]/div/ul/li/a Passed
+2016-08-20 22:24:39,377 [main] INFO Common.Utility - select option from list by xpath: //div[starts-with(@id,'dropdownGroup')]/div/ul/li/a Passed
+2016-08-20 22:24:51,380 [main] INFO Common.Utility - click button by xpath: //input[@id='ctl00_mainContent_btn_FindFlights'] Passed
+2016-08-20 22:27:00,782 [main] INFO Common.Utility - select browser: firefox Passed
+2016-08-20 22:27:01,381 [main] INFO Common.Utility - navigate to url: http://www.spicejet.com/ Passed
+2016-08-20 22:27:19,690 [main] INFO Common.Utility - select radio button by xpath: //input[@value='OneWay'] Passed
+2016-08-20 22:27:20,399 [main] INFO Common.Utility - click button by xpath: //input[@id='ctl00_mainContent_ddl_originStation1_CTXT'] Passed
+2016-08-20 22:27:23,020 [main] INFO Common.Utility - select option from list by xpath: //div[starts-with(@id,'dropdownGroup')]/div/ul/li/a Passed
+2016-08-20 22:27:27,600 [main] INFO Common.Utility - select option from list by xpath: //div[starts-with(@id,'dropdownGroup')]/div/ul/li/a Passed
+2016-08-20 22:27:37,411 [main] INFO Common.Utility - click button by xpath: //input[@id='ctl00_mainContent_btn_FindFlights'] Passed

@@ -1,0 +1,7 @@
+<suite name="test Suite">
+	<test name="SpiceJet">
+		<classes>
+			<class name="Framework.NewTest"></class>
+		</classes>
+	</test>
+</suite>
